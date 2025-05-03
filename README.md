@@ -20,19 +20,19 @@ Tested with Postman
 
 ## Tech Stack
 
-Framework: Spring Boot
+### Framework: Spring Boot
 
-Database: MySQL
+### Database: MySQL
 
-ORM: Spring Data JPA + Hibernate
+### ORM: Spring Data JPA + Hibernate
 
-Developer Tools: Spring Boot DevTools (Automatic Restart)
+### Developer Tools: Spring Boot DevTools (Automatic Restart)
 
-Code Simplification: Lombok
+### Code Simplification: Lombok
 
-Build Tool: Maven
+### Build Tool: Maven
 
-API Testing: Postman
+### API Testing: Postman
 
 ## Dependencies
 
