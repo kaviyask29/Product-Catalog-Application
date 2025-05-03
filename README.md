@@ -6,7 +6,7 @@ The Product Catalog Application is a backend-only Spring Boot application that p
 
 ## Features
 
-Add, update, retrieve, and delete products
+Add, update, retrieve and delete products
 
 Product fields: ID, name, category, price, description
 
