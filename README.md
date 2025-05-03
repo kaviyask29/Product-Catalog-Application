@@ -1,10 +1,10 @@
-## Product Catalog Application
+# Product Catalog Application
 
-# Project Description
+## Project Description
 
 The Product Catalog Application is a backend-only Spring Boot application that provides RESTful APIs for managing product data. It supports full CRUD operations (Create, Read, Update, Delete) using Spring Web, Spring Data JPA, Hibernate, and MySQL for database interaction. Lombok is used to reduce boilerplate code in model classes. The application is tested using Postman.
 
-# Features
+## Features
 
 Add, update, retrieve, and delete products
 
@@ -18,7 +18,7 @@ Easy database configuration with JPA
 
 Tested with Postman
 
-# Tech Stack
+## Tech Stack
 
 Framework: Spring Boot
 
@@ -34,7 +34,7 @@ Build Tool: Maven
 
 API Testing: Postman
 
-# Dependencies
+## Dependencies
 
 Spring Boot Web
 
